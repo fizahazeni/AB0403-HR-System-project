@@ -1,0 +1,27 @@
+Emp_ID,username,password,Name,Race,Marital Status,Department,Citizenship,Region,Area,Managerial Role,Team Manager,No of Leaves,Leave Dates,Leave Status,Performance,Salary,Bonus,Status
+1,shanonlee,qwerty12345!,Shanon Lee,Chinese,Married,HR,Singaporean,East,Paya Lebar,Team Manager,Shanon Lee,10.0,2021-05-17 to 2021-05-21,Approved,A,10000,1500.0,Full Time
+2,adelineyeo,password123!,Adeline Yeo,Chinese,Married,HR,Singaporean,Central,Orchard,Team Manager,Shanon Lee,11.0,,,A,11000,1650.0,Full Time
+4,danielchew,bvcx11!@,Daniel Chew,Chinese,Married,Finance,Singaporean,North-East,Hougang,Team Manager,Daniel Chew,13.0,,,C,12000,900.0,Full Time
+5,paulhwee,sdfgh321!,Paul Hwee,Chinese,Married,Finance,Singaporean,North-East,Punggol,Team Manager,Daniel Chew,14.0,,,A,9000,1350.0,Full Time
+6,jonathanlee,fghjk!@#12,Jonathan Lee,Chinese,Single,Information Technology,Singaporean,North-East,Punggol,Team Manager,Jonathan Lee,12.0,,,B,14000,1400.0,Full Time
+7,cheriegoh,yuiop!@#$,Cherie Goh,Chinese,Married,Information Technology,Singaporean,West,Bukit Batok,Team Manager,Jonathan Lee,9.0,,,B,10000,1000.0,Full Time
+8,rachelquek,vbnm1234!,Rachel Quek,Chinese,Single,Compliance,Singaporean,North,Kranji,Team Manager,Rachel Quek,10.0,,,A,8000,1200.0,Full Time
+9,boblow,asdfg1234!,Bob Low,Malay,Married,Compliance,Singaporean,North,Yishun,Team Manager,Rachel Quek,11.0,,,B,10000,1000.0,Full Time
+10,mariaong80,tgyhujikf!,Maria Ong,Chinese,Single,HR,Singaporean,West,Boon Lay,Staff,Shanon Lee,8.0,,,B,5000,500.0,Full Time
+11,gerrysch88,afnajfkalsnf%,Gerry Schneider,Eurasian,Single,HR,Foreigner,West,West Coast,Staff,Shanon Lee,9.0,,,C,4000,300.0,Full Time
+12,rosemarymc,fknakfnkaf*,Rosemary Mckinney,Eurasian,Single,HR,Permenant Resident,North,Woodlands,Staff,Adeline Yeo,12.0,,,A,3000,450.0,Full Time
+13,baileygill,faknfkanf&,Bailey Gill,Eurasian,Married,HR,Foreigner,North-East,Hougang,Staff,Adeline Yeo,13.0,,,B,3500,350.0,Full Time
+14,shannongil,fbajfajsfn$,Shannon Gilbert,Eurasian,Single,HR,Permenant Resident,Central,Bishan,Staff,Tasha Goh,6.0,,,B,4500,450.0,
+15,gohsiting,afjabsfjabfs!,Goh Si Ting,Chinese,Married,HR,Singaporean,Central,Marine Parade,Staff,Tasha Goh,5.0,,,A,5000,750.0,
+16,angelatan,fajsbflkanf!,Angela Tan,Chinese,Single,Finance,Singaporean,North-East,Serangoon,Staff,Daniel Chew,2.0,,,B,5000,500.0,Full Time
+17,sheilachew,fgbashnj!,Sheila Chew,Chinese,Married,Finance,Singaporean,North-East,Punggol,Staff,Daniel Chew,9.0,,,B,5500,550.0,
+18,tristanpang,dfgdshjk@,Tristan Pang,Chinese,Single,Finance,Singaporean,North-East,Sengkang,Staff,Paul Hwee,8.0,,,C,4200,315.0,Contract
+19,muthuvaravan,tyuisdaoz4,Muthu Ram,Indian,Married,Finance,Permenant Resident,East,Paya Lebar,Staff,Paul Hwee,10.0,,,A,3500,525.0,Contract
+20,khairulsham,poiuytr123!,Khairul Sham,Malay,Single,Information Technology,Singaporean,East,Paya Lebar,Staff,Jonathan Lee,7.0,,,B,3800,380.0,Contract
+21,andrewlee,fghjkdi!,Andrew Lee,Chinese,Married,Information Technology,Singaporean,East,Tampines,Staff,Jonathan Lee,9.0,,,B,4000,400.0,Contract
+22,amandeep92,rtyuio#dfgh,Amandeep Singh,Indian,Married,Information Technology,Singaporean,East,Changi,Staff,Cherie Goh,8.0,,,A,4300,645.0,Contract
+23,joshlovesu,zxcvbn2345!,Joshua Sim,Chinese,Married,Information Technology,Singaporean,East,Paya Lebar,Staff,Cherie Goh,11.0,,,B,6000,600.0,
+24,joel1968,tyuioper!,Joel Tan,Chinese,Married,Compliance,Singaporean,Central,Outram,Staff,Rachel Quek,12.0,,,B,2000,200.0,
+25,aliciagoh00,kjhgfd4321!,Alicia Goh,Chinese,Married,Compliance,Singaporean,Central,Bukit Timah,Staff,Rachel Quek,13.0,,,C,6500,487.5,
+26,amadeusings,dfghjk13456!,Amadeus Singh,Indian,Single,Compliance,Singaporean,Central,Bukit Timah,Staff,Bob Low,10.0,,,B,5500,550.0,
+27,teslialim,funt1mes123!,Teslia Lim,Chinese,Single,HR,Singaporean,North,Lim Chu Kang,Team Manager,Pending Team Managers,,,,C,5000,375.0,
